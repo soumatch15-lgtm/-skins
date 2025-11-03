@@ -1,10 +1,53 @@
 {
-    "namePlates": [
-    ],
-    "hats": [
-    ],
-    "visors": [
-    ],
-    "packages": [
-    ]
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Back" : {
+				"Hash" : "8e0c72a6d494bbedf811f3adf6537650",
+				"Address" : "ipYULzw_Back.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "59e1d81fe987c50c6b0cbc648e3f7008",
+				"Address" : "ipYULzw_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "b8f335de08b2e07ad96d4c36e91fb2cc",
+				"Address" : "ipYULzw_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "b8f335de08b2e07ad96d4c36e91fb2cc",
+				"Address" : "ipYULzw_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "スゥーマ",
+			"Author" : "suxuma",
+			"Package" : "suxumaskin",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Visors" : [
+	],
+	"Nameplates" : [
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "suxumaskins",
+			"Format" : "suxumaskins",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
 }
